@@ -1,0 +1,8 @@
+This is a script to get and display link/local/global/all IPs (v4/v6/both) and
+hostnames in a scripting-friendly manner for specified interface(s), caching
+results of remote calls for a configurable duration.
+
+The documentation is non-existent, but the script should be self-explanatory
+enough for now if you are the patient type.
+
+Included is my present .conkyrc, as a good example use-case.
